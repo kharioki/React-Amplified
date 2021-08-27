@@ -1,20 +1,26 @@
 {
-  "dev": {
-    "awscloudformation": {
-      "AuthRoleName": "amplify-todoprojectreact-dev-231506-authRole",
-      "UnauthRoleArn": "arn:aws:iam::105378598664:role/amplify-todoprojectreact-dev-231506-unauthRole",
-      "AuthRoleArn": "arn:aws:iam::105378598664:role/amplify-todoprojectreact-dev-231506-authRole",
-      "Region": "us-east-2",
-      "DeploymentBucketName": "amplify-todoprojectreact-dev-231506-deployment",
-      "UnauthRoleName": "amplify-todoprojectreact-dev-231506-unauthRole",
-      "StackName": "amplify-todoprojectreact-dev-231506",
-      "StackId": "arn:aws:cloudformation:us-east-2:105378598664:stack/amplify-todoprojectreact-dev-231506/0bbe9890-06aa-11ec-9aa6-066c0a3b9600",
-      "AmplifyAppId": "d24d0xog7qigdh"
-    },
-    "categories": {
-      "auth": {
-        "todoprojectreact9a414988": {}
-      }
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-todoprojectreact-dev-231506-authRole",
+            "UnauthRoleArn": "arn:aws:iam::105378598664:role/amplify-todoprojectreact-dev-231506-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::105378598664:role/amplify-todoprojectreact-dev-231506-authRole",
+            "Region": "us-east-2",
+            "DeploymentBucketName": "amplify-todoprojectreact-dev-231506-deployment",
+            "UnauthRoleName": "amplify-todoprojectreact-dev-231506-unauthRole",
+            "StackName": "amplify-todoprojectreact-dev-231506",
+            "StackId": "arn:aws:cloudformation:us-east-2:105378598664:stack/amplify-todoprojectreact-dev-231506/0bbe9890-06aa-11ec-9aa6-066c0a3b9600",
+            "AmplifyAppId": "d24d0xog7qigdh"
+        },
+        "categories": {
+            "auth": {
+                "todoprojectreact9a414988": {}
+            },
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "d24d0xog7qigdh",
+                    "type": "manual"
+                }
+            }
+        }
     }
-  }
 }
